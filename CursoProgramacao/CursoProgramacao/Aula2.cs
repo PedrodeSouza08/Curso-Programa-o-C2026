@@ -1,4 +1,6 @@
-﻿namespace CursoProgramacao
+﻿using System.ComponentModel.Design;
+
+namespace CursoProgramacao
 {
     public class Aula2
     {
@@ -16,6 +18,38 @@
                 Console.WriteLine("IMPAR");
             }
                 
+        }
+        public void MaiorIdade()
+        {
+            Console.WriteLine("Informe a Idade:");
+            int numero = int.Parse(Console.ReadLine());
+
+            if (numero % 18 >= 0)
+            {
+                Console.WriteLine("Maior de Idade");
+            }
+            else
+            {
+                Console.WriteLine("Menor de Idade");
+            }
+        }
+        public void Nota()
+        {
+            Console.WriteLine("Informe sua Nota");
+            int numero = int.Parse(Console.ReadLine());
+
+            if (numero >= 7)
+            {
+                Console.WriteLine("Aprovado");
+            }
+            else if (numero >= 5) 
+            {
+                Console.WriteLine("Recuperação");
+            }
+            else if (numero < 5) 
+            {
+                Console.WriteLine("Reprovado");
+            }
         }
     }
 }
