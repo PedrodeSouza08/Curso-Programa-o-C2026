@@ -1,0 +1,14 @@
+C:\Users\Aluno\source\repos\EstruturaDeRepetição\EstruturaDeRepetição\bin\Debug\net10.0\EstruturaDeRepetição.exe
+C:\Users\Aluno\source\repos\EstruturaDeRepetição\EstruturaDeRepetição\bin\Debug\net10.0\EstruturaDeRepetição.deps.json
+C:\Users\Aluno\source\repos\EstruturaDeRepetição\EstruturaDeRepetição\bin\Debug\net10.0\EstruturaDeRepetição.runtimeconfig.json
+C:\Users\Aluno\source\repos\EstruturaDeRepetição\EstruturaDeRepetição\bin\Debug\net10.0\EstruturaDeRepetição.dll
+C:\Users\Aluno\source\repos\EstruturaDeRepetição\EstruturaDeRepetição\bin\Debug\net10.0\EstruturaDeRepetição.pdb
+C:\Users\Aluno\source\repos\EstruturaDeRepetição\EstruturaDeRepetição\obj\Debug\net10.0\EstruturaDeRepetição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\EstruturaDeRepetição\EstruturaDeRepetição\obj\Debug\net10.0\EstruturaDeRepetição.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\EstruturaDeRepetição\EstruturaDeRepetição\obj\Debug\net10.0\EstruturaDeRepetição.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\EstruturaDeRepetição\EstruturaDeRepetição\obj\Debug\net10.0\EstruturaDeRepetição.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\EstruturaDeRepetição\EstruturaDeRepetição\obj\Debug\net10.0\EstruturaDeRepetição.dll
+C:\Users\Aluno\source\repos\EstruturaDeRepetição\EstruturaDeRepetição\obj\Debug\net10.0\refint\EstruturaDeRepetição.dll
+C:\Users\Aluno\source\repos\EstruturaDeRepetição\EstruturaDeRepetição\obj\Debug\net10.0\EstruturaDeRepetição.pdb
+C:\Users\Aluno\source\repos\EstruturaDeRepetição\EstruturaDeRepetição\obj\Debug\net10.0\EstruturaDeRepetição.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\EstruturaDeRepetição\EstruturaDeRepetição\obj\Debug\net10.0\ref\EstruturaDeRepetição.dll
