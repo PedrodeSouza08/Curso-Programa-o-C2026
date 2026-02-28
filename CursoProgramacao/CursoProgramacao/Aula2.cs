@@ -36,17 +36,17 @@ namespace CursoProgramacao
         public void Nota()
         {
             Console.WriteLine("Informe sua Nota");
-            int numero = int.Parse(Console.ReadLine());
+            int nota = int.Parse(Console.ReadLine());
 
-            if (numero >= 7)
+            if (nota >= 7)
             {
                 Console.WriteLine("Aprovado");
             }
-            else if (numero >= 5) 
+            else if (nota >= 5)
             {
                 Console.WriteLine("Recuperação");
             }
-            else if (numero < 5) 
+            else
             {
                 Console.WriteLine("Reprovado");
             }
