@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sdw9Bx3i2v4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aluno\\source\\repos\\WinFormsAppConsumirAPI\\WinFormsAppConsumirAPI\\WinFormsAppConsumirAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aluno\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
